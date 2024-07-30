@@ -58,10 +58,10 @@
 
             display-name = "Nav";
             bindings = <
-&trans  &trans  &trans   &trans   &trans   &trans                    &trans          &trans         &trans        &trans     &trans  &trans
-&trans  &kp F1  &kp F2   &kp F3   &kp F4   &trans                    &kp HOME        &kp PAGE_DOWN  &kp PG_UP     &kp END    &trans  &trans
-&trans  &kp F5  &kp F6   &kp F7   &kp F8   &trans                    &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &trans  &trans
-&trans  &kp F9  &kp F10  &kp F11  &kp F12  &trans  &trans    &trans  &kp KP_PLUS     &kp MINUS      &kp ASTERISK  &kp FSLH   &trans  &trans
+&trans  &trans  &trans   &trans   &trans   &trans                    &trans          &trans         &trans        &trans     &trans     &trans
+&trans  &kp F1  &kp F2   &kp F3   &kp F4   &trans                    &kp HOME        &kp PAGE_DOWN  &kp PG_UP     &kp END    &trans     &trans
+&trans  &kp F5  &kp F6   &kp F7   &kp F8   &trans                    &kp LEFT_ARROW  &kp DOWN       &kp UP_ARROW  &kp RIGHT  &trans     &trans
+&trans  &kp F9  &kp F10  &kp F11  &kp F12  &trans  &trans    &trans  &kp KP_PLUS     &kp MINUS      &kp ASTERISK  &kp FSLH   &kp CARET  &trans
                          &trans   &trans   &trans  &trans    &trans  &trans          &trans         &trans
             >;
         };
